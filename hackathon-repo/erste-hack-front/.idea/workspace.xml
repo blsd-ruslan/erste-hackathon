@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5436805-45f8-4b80-ba89-b9a7d074394c" name="Changes" comment="b.">
+      <change beforePath="$PROJECT_DIR$/app/components/DashboardLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/DashboardLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/InsightOfTheDayCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/InsightOfTheDayCard.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2oQkXvnP7fohM3RbAnbmvKpB2aQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/ruslan/coding/hack/totally-spice-repo/erste-hack-front",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/home/ruslan/coding/hack/totally-spice-repo/erste-hack-front/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app/components" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/pages/scan" />
+      <recent name="$PROJECT_DIR$/app/pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5436805-45f8-4b80-ba89-b9a7d074394c" name="Changes" comment="" />
+      <created>1730809229842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730809229842</updated>
+      <workItem from="1730809230897" duration="6177000" />
+      <workItem from="1730882663009" duration="7000" />
+      <workItem from="1730912551311" duration="17076000" />
+      <workItem from="1731000963134" duration="5469000" />
+      <workItem from="1731047300031" duration="3093000" />
+      <workItem from="1731056510806" duration="25752000" />
+      <workItem from="1731122148755" duration="1937000" />
+      <workItem from="1731124580836" duration="15227000" />
+    </task>
+    <task id="LOCAL-00001" summary="init dashboard layout">
+      <option name="closed" value="true" />
+      <created>1730934332183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730934332183</updated>
+    </task>
+    <task id="LOCAL-00002" summary="check">
+      <option name="closed" value="true" />
+      <created>1731116237122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731116237122</updated>
+    </task>
+    <task id="LOCAL-00003" summary="check">
+      <option name="closed" value="true" />
+      <created>1731124862766</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731124862766</updated>
+    </task>
+    <task id="LOCAL-00004" summary=".">
+      <option name="closed" value="true" />
+      <created>1731135146663</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731135146663</updated>
+    </task>
+    <task id="LOCAL-00005" summary="a.">
+      <option name="closed" value="true" />
+      <created>1731140998607</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731140998607</updated>
+    </task>
+    <task id="LOCAL-00006" summary="b.">
+      <option name="closed" value="true" />
+      <created>1731142268513</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731142268513</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init dashboard layout" />
+    <MESSAGE value="check" />
+    <MESSAGE value="." />
+    <MESSAGE value="a." />
+    <MESSAGE value="b." />
+    <option name="LAST_COMMIT_MESSAGE" value="b." />
+  </component>
+</project>

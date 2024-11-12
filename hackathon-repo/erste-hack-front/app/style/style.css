@@ -1,0 +1,5 @@
+.card {
+    @apply rounded-3xl;
+    background-color: #1B1932;
+    border: none;
+}

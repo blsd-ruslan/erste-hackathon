@@ -1,0 +1,2 @@
+customer_id,primary_category,subcategory,total_spent,mean_spent,std_spent,z_score,is_anomaly
+25,Stravovanie,Potraviny,13067.79,2913.6286842105264,3213.28973968556,3.1600515790347377,True

@@ -1,0 +1,2 @@
+customer_id,category_item,total_spent,mean_spent,std_spent,z_score,is_anomaly
+1,Zábava a oddych/null,486.35,133.4886111111111,153.36824309303555,2.300746111271795,True
